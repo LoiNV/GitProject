@@ -37,7 +37,7 @@ namespace App1
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
             Items item = e.Parameter as Items;
-            BitmapImage bm = new BitmapImage(new Uri(@""+item.Path, UriKind.RelativeOrAbsolute));
+            BitmapImage bm = new BitmapImage(new Uri(item.Path, UriKind.RelativeOrAbsolute));
             img.Source = bm;
             txtName.Text = item.Name;
         }

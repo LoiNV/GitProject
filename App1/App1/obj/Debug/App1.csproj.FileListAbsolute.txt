@@ -35,3 +35,40 @@ C:\Users\Admin\documents\visual studio 2013\Projects\App1\App1\obj\Debug\ItemPag
 C:\Users\Admin\documents\visual studio 2013\Projects\App1\App1\obj\Debug\ItemPage.g.cs
 C:\Users\Admin\documents\visual studio 2013\Projects\App1\App1\obj\Debug\ItemPage.xaml
 C:\Users\Admin\documents\visual studio 2013\Projects\App1\App1\obj\Debug\ItemPage.xbf
+D:\GitHub\GitProject\App1\App1\bin\Debug\App.xbf
+D:\GitHub\GitProject\App1\App1\bin\Debug\ItemPage.xbf
+D:\GitHub\GitProject\App1\App1\bin\Debug\MainPage.xbf
+D:\GitHub\GitProject\App1\App1\bin\Debug\App1.xr.xml
+D:\GitHub\GitProject\App1\App1\bin\Debug\App1.exe
+D:\GitHub\GitProject\App1\App1\bin\Debug\App1.pdb
+D:\GitHub\GitProject\App1\App1\bin\Debug\resources.pri
+D:\GitHub\GitProject\App1\App1\bin\Debug\AppxManifest.xml
+D:\GitHub\GitProject\App1\App1\bin\Debug\App1.build.appxrecipe
+D:\GitHub\GitProject\App1\App1\obj\Debug\App.g.i.cs
+D:\GitHub\GitProject\App1\App1\obj\Debug\App.g.cs
+D:\GitHub\GitProject\App1\App1\obj\Debug\ItemPage.g.i.cs
+D:\GitHub\GitProject\App1\App1\obj\Debug\ItemPage.g.cs
+D:\GitHub\GitProject\App1\App1\obj\Debug\MainPage.g.i.cs
+D:\GitHub\GitProject\App1\App1\obj\Debug\MainPage.g.cs
+D:\GitHub\GitProject\App1\App1\obj\Debug\XamlTypeInfo.g.cs
+D:\GitHub\GitProject\App1\App1\obj\Debug\App.xaml
+D:\GitHub\GitProject\App1\App1\obj\Debug\ItemPage.xaml
+D:\GitHub\GitProject\App1\App1\obj\Debug\App.xbf
+D:\GitHub\GitProject\App1\App1\obj\Debug\ItemPage.xbf
+D:\GitHub\GitProject\App1\App1\obj\Debug\XamlSaveStateFile.xml
+D:\GitHub\GitProject\App1\App1\obj\Debug\MainPage.xaml
+D:\GitHub\GitProject\App1\App1\obj\Debug\MainPage.xbf
+D:\GitHub\GitProject\App1\App1\obj\Debug\App1.exe
+D:\GitHub\GitProject\App1\App1\obj\Debug\App1.pdb
+D:\GitHub\GitProject\App1\App1\obj\Debug\priconfig.xml
+D:\GitHub\GitProject\App1\App1\obj\Debug\priconfig.xml.intermediate
+D:\GitHub\GitProject\App1\App1\obj\Debug\layout.resfiles
+D:\GitHub\GitProject\App1\App1\obj\Debug\layout.resfiles.intermediate
+D:\GitHub\GitProject\App1\App1\obj\Debug\resources.resfiles
+D:\GitHub\GitProject\App1\App1\obj\Debug\resources.resfiles.intermediate
+D:\GitHub\GitProject\App1\App1\obj\Debug\pri.resfiles
+D:\GitHub\GitProject\App1\App1\obj\Debug\pri.resfiles.intermediate
+D:\GitHub\GitProject\App1\App1\obj\Debug\qualifiers.txt
+D:\GitHub\GitProject\App1\App1\obj\Debug\qualifiers.txt.intermediate
+D:\GitHub\GitProject\App1\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\GitHub\GitProject\App1\App1\obj\Debug\ProjectArchitectures.txt

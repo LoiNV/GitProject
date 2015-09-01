@@ -14,7 +14,7 @@
     </Page.DataContext>
 
     <Grid>
-        <ListView Name="ListImg" ItemsSource="{Binding Item}" Margin="50,50,0,0" SelectionChanged="ListView_SelectionChanged">
+        <ListView Name="ListImg" ItemsSource="{Binding Item}" Margin="50,50,50,0" SelectionChanged="ListView_SelectionChanged">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <StackPanel>

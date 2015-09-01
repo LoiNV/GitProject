@@ -14,12 +14,12 @@
     </Page.DataContext>
 
     <Grid>
-        <ListView x:ConnectionId='1' Name="ListImg" ItemsSource="{Binding Item}" Margin="50,50,0,0"                                             >
+        <ListView x:ConnectionId='1' Name="ListImg" ItemsSource="{Binding Item}" Margin="50,50,50,0"                                             >
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <StackPanel>
                         <Image Source="{Binding Path}" Margin="0,0,0,5" />
-                        <TextBlock Text="{Binding Name}" Margin="0,0,0,20" />
+                        <TextBlock Text="{Binding Name}" Margin="0,0,0,20" FontSize="20" />
                     </StackPanel>
                 </DataTemplate>
             </ListView.ItemTemplate>

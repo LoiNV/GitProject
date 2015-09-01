@@ -30,6 +30,7 @@
       <RootProperty Name="Name" />
       <RootProperty Name="Text" />
       <RootProperty Name="Margin" />
+      <RootProperty Name="FontSize" />
     </RootType>
     <RootType FullName="App1.ItemPage" />
     <RootType FullName="App1.ViewModel.MainViewModel" />
